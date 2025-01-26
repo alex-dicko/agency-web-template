@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+h1, h2, h3, h4, h5 ,h6 p, li {
+  color: #4D4D4D
+}
+
+span {
+  color: #4CAF4F;
+}
